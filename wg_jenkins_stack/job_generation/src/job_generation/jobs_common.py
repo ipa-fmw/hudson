@@ -86,7 +86,7 @@ else:
     HOME_FOLDER = '/home-local/jenkins'
 
 # list of public and private IPA Fraunhofer stacks
-FHG_STACKS_PUBLIC = ['cob_extern', 'cob_common', 'cob_driver', 'cob_simulation', 'cob_apps']
+FHG_STACKS_PUBLIC = ['cob_extern', 'cob_common', 'cob_driver', 'cob_simulation', 'cob_apps', 'cob_manipulation']
 FHG_STACKS_PRIVATE = ['cob3_intern', 'interaid', 'srs', 'r3cop']
 
 COB3_INTERN_STACKS = ["cob_manipulation", "cob_navigation", "cob_rcc", "cob_sandbox", "cob_scenarios", "cob_vision"]
